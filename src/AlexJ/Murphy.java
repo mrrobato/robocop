@@ -22,6 +22,8 @@ public class Murphy extends Robot{
             turnGunLeft(360);
             //erstellt2
             back(100);
+            //erstrellt in Github
+            turnGunRight(360);
         }
     }
    public void onScannedRobot(ScannedRobotEvent e){
