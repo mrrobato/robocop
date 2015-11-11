@@ -24,6 +24,7 @@ public class Murphy extends Robot{
             back(100);
             //erstrellt in Github
             turnGunRight(360);
+            //änderungen Netbeans
         }
     }
    public void onScannedRobot(ScannedRobotEvent e){
