@@ -19,6 +19,8 @@ public class Murphy extends Robot{
             back(100);
             turnGunLeft(360);
             //erstellt1
+            turnGunLeft(360);
+            //erstellt2
         }
     }
    public void onScannedRobot(ScannedRobotEvent e){
